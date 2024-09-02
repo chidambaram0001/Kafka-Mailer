@@ -1,0 +1,15 @@
+http://localhost:5000/postMsg
+{
+    "email":"chhdshf@gmail.com",
+    "name":"chidhu",
+    "img" : "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png",
+    "productname": "Iphone 16",
+    "template":"orderMail"
+}
+
+http://localhost:5001/addUser
+{
+    "email": "chidambarammahima@gmail.com",
+    "name": "chidhu",
+    "template": "welcomeMail"
+}
